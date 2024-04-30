@@ -25,7 +25,7 @@
 <br/>  
 
 
-## My Skill Set  
+## Навыки
 <table><tr><td valign="top" width="33%">
 
 ### Правее приведены мои навыки использования разными инструментами разработки. Что-то я хорошо знаю, а с чем-то ознакомлен в теории, но ещё предстоит освоить на практике.  
@@ -59,6 +59,28 @@
 
 </td></tr></table>
 <br />
+
+## Connect with me  
+<div align="center">
+<a href="https://github.com/rishavanand" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/iamrishavanand" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://dev.to/rishavanand" target="_blank">
+<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/rishavanand" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.facebook.com/iamrishavanand" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/iamrishavanand" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
+</div>  
 
 #### Немного обо мне:
 #### *Я только начинаю свою дорогу, как веб-программист, и мне ещё многому предстоит научиться, но я знаю, что у меня всё получится, если я приложу усилия. Всю жизнь я увлекаюсь компьютерными технологиями, да и технологиями в принципе. Изучать, как работает компьютер и программы в нём я начал ещё с самого детства вместе с моим отцом. По-началу конечно же я увлекся видеоиграми, но мне было интересно не только играть в них, но и изучать, как они работают (геймдизайн и прочее). Поэтому первые шаги в IT были сделаны в сторону Game-Dev'а, а именно Unity на языке C#. Через множество ошибок, мне всё же удавалось создавать игры, хоть и небольшие, но зато свои. Но вскоре я понял, что разработка инди-игр - очень комплексный и долгий процесс, требующий навыков во многих областях. Поэтому я переключился на веб-разработку и не прогадал. Я даже и не ожидал, что разработка сайтов, а именно выстраивание блоков, редактирование текста и т.д. может быть таким увлекательным процессом. Как конструктор, но со своими любопытными ньюансами. Таким образом я нашёл интересное занятие, которое в будущем можно будет превратить в работу! *
