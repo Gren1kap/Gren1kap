@@ -59,5 +59,5 @@
 
 ## Связь со мной  
 <div align="center">
-<p><a href="sample.html"><img src="images/sample.gif" width="50" 
+<p><a href="https://github.com/Gren1kap"><img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="50" 
    height="50"></a></p>
