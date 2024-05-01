@@ -59,5 +59,5 @@
 
 ## Связь со мной  
 <div align="center">
-<p><a href="https://github.com/Gren1kap"><img src="https://pngimg.com/d/github_PNG27.png" width="50" 
-   height="50" border="0" alt="Пример"></a></p>
+<p><a href="sample.html"><img src="images/sample.gif" width="50" 
+   height="50"></a></p>
