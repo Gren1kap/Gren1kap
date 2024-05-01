@@ -1,4 +1,4 @@
-### <div align="center">Я Junior Frontend Веб-программист (в частности верстальщик) 🧐</div>  
+### <div align="center">Я Junior Frontend Веб-программист 🧐</div>  
   
 
 #### 🔎В данный момент я обучаюсь:  
@@ -57,8 +57,7 @@
 </td></tr></table>
 <br />
 
-## Connect with me  
+## Связь со мной  
 <div align="center">
-<a href="https://github.com/Gren1kap" target="_blank">
-<img src=https://pngimg.com/d/github_PNG27.png" />
-</a>
+<p><a href="https://github.com/Gren1kap"><img src="https://pngimg.com/d/github_PNG27.png" width="50" 
+   height="50" border="0" alt="Пример"></a></p>
