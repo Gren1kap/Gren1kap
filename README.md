@@ -59,7 +59,7 @@
 
 ## Связь со мной  
 <div align="center">
-<p><a href="https://github.com/Gren1kap"><img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="50" 
-   height="50"></a></p>
-<p><a href="https://vk.com/id565808691"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFwOMQH4FkU1cryrKRb3C2DULSULK5wRjzp74uuALztw&s" width="50" 
-   height="50"></a></p>
+<a href="https://github.com/Gren1kap"><img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="50" 
+   height="50"></a>
+<a href="https://vk.com/id565808691"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFwOMQH4FkU1cryrKRb3C2DULSULK5wRjzp74uuALztw&s" width="50" 
+   height="50"></a>
