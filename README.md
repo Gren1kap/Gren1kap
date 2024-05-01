@@ -1,4 +1,4 @@
-### <div align="center">Я Junior Frontend Веб-программист 🧐</div>  
+### <div align="center">Профиль Junior Frontend Веб-программиста 🧐</div>  
   
 
 #### 🔎В данный момент я обучаюсь:  
@@ -60,4 +60,6 @@
 ## Связь со мной  
 <div align="center">
 <p><a href="https://github.com/Gren1kap"><img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="50" 
+   height="50"></a></p>
+<p><a href="https://vk.com/id565808691"><img src="https://toplogos.ru/images/logo-vk.png" width="50" 
    height="50"></a></p>
